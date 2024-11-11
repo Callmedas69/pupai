@@ -34,7 +34,7 @@ export function ConnectWalletComponents() {
       <Wallet>
         <ConnectWallet withWalletAggregator className="bg-[#e7f9f5]">
           <ConnectWalletText
-            className={`text-nowrap text-2xl ${nanum.className}`}
+            className={`text-nowrap text-2xl text-cyan-700 ${nanum.className}`}
           >
             CONNECT WALLET
           </ConnectWalletText>
